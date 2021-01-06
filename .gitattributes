@@ -1,0 +1,7 @@
+*.php linguist-detectable=true
+*.react linguist-detectable=true
+*.laravel linguist-detectable=true
+*.js linguist-detectable=true
+*.npm linguist-detectable=true
+*.js linguist-detectable=true
+*.css linguist-detectable=true
